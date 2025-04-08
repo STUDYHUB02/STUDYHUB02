@@ -18,6 +18,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=STUDYHUB02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🐍
+<a href=#><img src="contributions.svg"></a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
